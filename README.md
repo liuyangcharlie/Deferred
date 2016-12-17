@@ -1,6 +1,6 @@
 # 一个JavaScript实现的Deferred库的demo
 
-### 代码说明
+### 代码说明书
 
 是照抄《JavaScript框架设计》（作者：司徒正美）一书第12章的实现
 
